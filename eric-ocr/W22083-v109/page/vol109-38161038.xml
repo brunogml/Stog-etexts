@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>Transkribus</Creator>
+		<Created>2022-09-06T12:00:26.622+02:00</Created>
+		<LastChanged>2022-09-06T12:02:29.072+02:00</LastChanged>
+	</Metadata>
+	<Page imageFilename="vol109-38161038.jpg" imageWidth="2037" imageHeight="490">
+		<ReadingOrder>
+			<OrderedGroup id="1234_0" caption="Regions reading order"/>
+			<RegionRefIndexed index="0" regionRef="region_main"/>
+		</ReadingOrder>
+		<TextRegion id="region_main" custom="readingOrder {index:0;}">
+			<Coords points="184,121 1837,121 1837,410 184,410"/>
+			<TextLine id="line_9874_0" custom="readingOrder {index: 0;}">
+				<Coords points="1852,109 1826,104 1090,109 188,107 174,112 174,164 951,161 1094,166 1129,161 1846,161 1852,156 "/>
+				<TextEquiv>
+					<Unicode>མོ་ནག་མོའི་བསྟོད་པ་རྒྱལ་པོའི་རྒྱུད་། དཔལ་ལྔ་མོའི་མཚན་བརྒྱད་ཅུ་བརྒྱད་། ལྷའི་དབང་པོ་བརྒྱ་བྱིན་གྱི་བསྙད་པ་། འཕགས་པ་ཆེ་དང་</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_1" custom="readingOrder {index: 1;}">
+				<Coords points="1850,160 1844,155 1235,160 174,158 174,210 206,215 1844,212 1850,200 "/>
+				<TextEquiv>
+					<Unicode>ཡི་ཤེས་དཔག་ཏུ་མེད་པ་ཞེས་བྱ་བ་འམ་དེ་། ཡང་འཕགས་པ་ཚེ་དང་ཡེ་ཤེས་དཔག་ཏུ་མེད་པ་ཞེས་བྱ་བ་ཟག་པ་ཆེན་པོ་མ་། འཕགས་པ་</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_2" custom="readingOrder {index: 2;}">
+				<Coords points="1836,209 176,209 172,256 182,268 1818,261 1830,258 1836,245 "/>
+				<TextEquiv>
+					<Unicode>ཚེ་དང་ཡེ་ཤེས་དཔག་ཏུ་མེད་པའི་སྙིང་པོ་། ལོ་པ་ཚད་ཉི་མ་གྲགས་ཀྱིས་ས་བསྒྱུར་། བཅོམ་ལྡན་འདས་སྣང་བ་མཐའ་ཡས་ཀྱི་གཟུངས་</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_3" custom="readingOrder {index: 3;}">
+				<Coords points="1848,262 1840,257 754,265 176,262 174,314 223,320 515,317 640,322 803,317 1842,314 1848,309 "/>
+				<TextEquiv>
+					<Unicode>སྔགས་། སྣང་བ་མཐའ་ཡས་རྗེས་སུ་དྲན་པ་། འཕགས་པ་སྤྱན་རས་གཟིགས་དབང་ཕྱུག་གི་རྩ་བའི་རྒྱུད་ཀྱི་རྒྱལ་བ་པདྨ་དྲ་བ་ཞེས་བྱ་བ་ལ་ཤུ་</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_4" custom="readingOrder {index: 4;}">
+				<Coords points="174,316 176,368 1741,363 1850,368 1854,363 1854,314 1800,308 349,308 194,311 "/>
+				<TextEquiv>
+					<Unicode>བཅུ་གཉིས་པ་། རྒོད་ཀྱི་ཆེ་གྱུར་དགེ་སློང་ཚུལ་ཁྲིམས་འོ་ད་ཟེར་གྱིས་བསྒྱུར་། འཕགས་པ་དོན་ཡོད་ཞུགས་པའི་སྙིང་པོ་ཞེས་བྱ་བ་ཟག་ག་</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_5" custom="readingOrder {index: 5;}">
+				<Coords points="1854,370 1846,362 176,367 174,422 1624,416 1806,422 1852,419 "/>
+				<TextEquiv>
+					<Unicode>པ་ཆེན་པོའི་དོ་། ངེད་ཀྱི་ལེ་ཙ་བ་དགེ་སློང་བ་རིན་རིན་ཆེན་གྲགས་པས་ས་བསྒྱུར་། འཕགས་པ་དོན་ཡིན་ཞུགས་པའི་སྙིང་པོ་ཞེས་བྱ་བའི་གཟུངས་། </Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>
