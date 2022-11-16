@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>Transkribus</Creator>
+		<Created>2022-09-06T12:00:26.622+02:00</Created>
+		<LastChanged>2022-09-06T12:02:29.072+02:00</LastChanged>
+	</Metadata>
+	<Page imageFilename="37230009.jpg" imageWidth="2202" imageHeight="453">
+		<ReadingOrder>
+			<OrderedGroup id="1234_0" caption="Regions reading order"/>
+			<RegionRefIndexed index="0" regionRef="region_main"/>
+		</ReadingOrder>
+		<TextRegion id="region_main" custom="readingOrder {index:0;}">
+			<Coords points="16,0 2102,0 2102,431 16,431"/>
+			<TextLine id="line_9874_0" custom="readingOrder {index: 0;}">
+				<Coords points="155,-5 155,38 158,38 159,40 201,40 202,41 202,43 245,43 247,40 353,40 354,38 405,38 405,37 407,36 407,27 409,26 409,-5 "/>
+				<TextEquiv>
+					<Unicode/>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_1" custom="readingOrder {index: 1;}">
+				<Coords points="370,-5 370,38 422,38 423,36 443,36 444,26 524,26 525,29 680,29 681,26 739,26 740,29 783,29 784,26 826,26 827,24 833,24 834,22 959,22 959,-5 "/>
+				<TextEquiv>
+					<Unicode/>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_2" custom="readingOrder {index: 2;}">
+				<Coords points="602,183 602,229 613,236 654,241 732,241 744,239 745,236 752,236 753,239 796,241 984,239 1051,243 1052,246 1166,248 1179,246 1180,243 1203,241 1458,241 1493,239 1494,236 1566,236 1582,229 1596,229 1609,224 1609,174 1605,169 1578,167 1577,164 1469,164 1468,167 1160,167 1159,164 1078,164 1076,167 796,169 744,171 743,174 738,171 643,171 642,174 613,176 "/>
+				<TextEquiv>
+					<Unicode>ཤེས་བས་ཀྱི་ཤཱ་རོ་རོལ་ཏུ་བྱ་བསླབ་། བྱུང་ཅན་བས་འོ་།།་།།་</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

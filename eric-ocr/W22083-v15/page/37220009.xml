@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>Transkribus</Creator>
+		<Created>2022-09-06T12:00:26.622+02:00</Created>
+		<LastChanged>2022-09-06T12:02:29.072+02:00</LastChanged>
+	</Metadata>
+	<Page imageFilename="37220009.jpg" imageWidth="2202" imageHeight="453">
+		<ReadingOrder>
+			<OrderedGroup id="1234_0" caption="Regions reading order"/>
+			<RegionRefIndexed index="0" regionRef="region_main"/>
+		</ReadingOrder>
+		<TextRegion id="region_main" custom="readingOrder {index:0;}">
+			<Coords points="674,204 1657,204 1657,249 674,249"/>
+			<TextLine id="line_9874_0" custom="readingOrder {index: 0;}">
+				<Coords points="658,190 658,239 678,253 713,257 714,260 805,260 806,257 816,257 817,260 1042,260 1123,267 1247,265 1249,262 1626,262 1643,260 1644,257 1667,257 1680,248 1680,200 1676,199 1676,195 1628,188 1410,190 1326,188 1325,185 953,185 952,188 941,188 940,185 889,185 887,188 786,188 785,185 716,183 "/>
+				<TextEquiv>
+					<Unicode>ཤེས་ཀྱི་རོལ་ཏུ་བྱ་བ་སྟོང་ལྔ་བ་། བྱུང་བ་ཞག་བས་འོ་</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

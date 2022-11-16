@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>Transkribus</Creator>
+		<Created>2022-09-06T12:00:26.622+02:00</Created>
+		<LastChanged>2022-09-06T12:02:29.072+02:00</LastChanged>
+	</Metadata>
+	<Page imageFilename="37240009.jpg" imageWidth="2202" imageHeight="453">
+		<ReadingOrder>
+			<OrderedGroup id="1234_0" caption="Regions reading order"/>
+			<RegionRefIndexed index="0" regionRef="region_main"/>
+		</ReadingOrder>
+		<TextRegion id="region_main" custom="readingOrder {index:0;}">
+			<Coords points="311,0 1625,0 1625,206 311,206"/>
+			<TextLine id="line_9874_0" custom="readingOrder {index: 0;}">
+				<Coords points="329,98 329,100 328,101 327,101 327,144 328,144 329,145 329,147 335,147 336,148 336,149 392,149 392,148 393,147 394,147 394,145 395,144 396,144 396,98 393,98 392,97 392,96 340,96 340,97 339,98 "/>
+				<TextEquiv>
+					<Unicode/>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_1" custom="readingOrder {index: 1;}">
+				<Coords points="628,162 628,215 638,217 639,220 667,224 1458,224 1598,222 1639,217 1648,210 1648,167 1639,157 1597,155 1596,152 1352,155 1351,152 957,150 820,152 818,155 784,157 669,155 "/>
+				<TextEquiv>
+					<Unicode>ཤེས་བ་། ཀྱི་རོལ་ཏུ་བྱུང་སྡེ་དག་བྱུང་བ་ཅན་བས་སོ་། །</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>
