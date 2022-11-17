@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>Transkribus</Creator>
+		<Created>2022-09-06T12:00:26.622+02:00</Created>
+		<LastChanged>2022-09-06T12:02:29.072+02:00</LastChanged>
+	</Metadata>
+	<Page imageFilename="37320012.jpg" imageWidth="2202" imageHeight="453">
+		<ReadingOrder>
+			<OrderedGroup id="1234_0" caption="Regions reading order"/>
+			<RegionRefIndexed index="0" regionRef="region_main"/>
+		</ReadingOrder>
+		<TextRegion id="region_main" custom="readingOrder {index:0;}">
+			<Coords points="513,136 1612,136 1612,355 513,355"/>
+			<TextLine id="line_9874_0" custom="readingOrder {index: 0;}">
+				<Coords points="501,119 501,170 508,175 535,177 536,180 668,177 669,180 1251,182 1423,184 1424,187 1505,191 1607,191 1630,187 1635,177 1635,134 1628,130 1628,126 1620,124 1399,122 1398,119 877,119 818,115 512,115 "/>
+				<TextEquiv>
+					<Unicode>ཡིན༑མི་གཟུང་བའི་ཕྱིར་མ་ཡན།མིག་གཟུང་བའི་ཕྱིར་བསྟན་པ་མ་ཡིན།མི་གཟུང་བའི་ཕྱིར་མ་ཡིན།རྣ་བ་གཟུང་</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_1" custom="readingOrder {index: 1;}">
+				<Coords points="499,169 499,215 523,224 783,229 1014,229 1016,232 1100,229 1102,232 1587,234 1598,229 1598,181 1590,176 1556,174 1555,171 1062,167 1060,164 1009,164 1008,167 1007,164 506,162 "/>
+				<TextEquiv>
+					<Unicode>བའི་ཕྱིར་བསྟན་པ་མ་ཡིན།མི་གཟུང་བའི་ཕྱིར་མ་ཡིན།ས་གཟུང་བའི་ཕྱིར་བསྟན་པ་མ་ཡིན།མི་གཟུང་བའི་</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_2" custom="readingOrder {index: 2;}">
+				<Coords points="505,214 505,262 525,269 1611,281 1622,279 1628,272 1626,223 1596,214 1397,218 529,207 512,209 "/>
+				<TextEquiv>
+					<Unicode>ཕྱིར་མ་ཡིན།ལྕེ་གཟུང་བའི་ཕྱིར་བསྟན་པ་མ་ཡིན།མི་གཟུང་བའི་ཕྱིར་མ་ཡིན།ལུས་གཟུང་བའི་ཕྱིར་བསྟན་པ་མ་ཡིན།</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_3" custom="readingOrder {index: 3;}">
+				<Coords points="499,259 499,307 506,312 525,316 653,316 654,319 730,316 731,319 1510,328 1620,326 1628,324 1635,316 1635,273 1624,266 1603,266 1602,263 905,259 904,256 664,256 607,252 516,252 "/>
+				<TextEquiv>
+					<Unicode>མི་གཟུང་བའི་ཕྱིར་མ་ཡིན།ཡིད་གཟུང་བའི་ཕྱིར་བསྟན་པ་མ་ཡིན།མི་གཟུང་བའི་ཕྱིར་མ་ཡིན།གཟུགས་གཟུང་བའི་</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_4" custom="readingOrder {index: 4;}">
+				<Coords points="497,303 499,354 503,359 528,361 529,364 683,364 764,368 894,366 993,368 994,371 1182,368 1183,371 1368,373 1607,371 1622,364 1622,313 1606,311 1605,308 743,303 514,299 "/>
+				<TextEquiv>
+					<Unicode>ཕྱིར་བསྟན་པ་མ་ཡིན།མི་གཟུང་བའི་ཕྱིར་མ་ཡིན།སྒྲ་གཟུང་བའི་ཕྱིར་བསྟན་པ་མ་ཡིན།མི་གཟུང་བའི་ཕྱིར་མ་ཡིན།</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

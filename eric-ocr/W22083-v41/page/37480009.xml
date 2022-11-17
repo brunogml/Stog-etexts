@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>Transkribus</Creator>
+		<Created>2022-09-06T12:00:26.622+02:00</Created>
+		<LastChanged>2022-09-06T12:02:29.072+02:00</LastChanged>
+	</Metadata>
+	<Page imageFilename="37480009.jpg" imageWidth="2196" imageHeight="455">
+		<ReadingOrder>
+			<OrderedGroup id="1234_0" caption="Regions reading order"/>
+			<RegionRefIndexed index="0" regionRef="region_main"/>
+		</ReadingOrder>
+		<TextRegion id="region_main" custom="readingOrder {index:0;}">
+			<Coords points="698,193 1599,193 1599,442 698,442"/>
+			<TextLine id="line_9874_0" custom="readingOrder {index: 0;}">
+				<Coords points="682,184 682,235 704,242 723,244 818,244 819,247 884,249 1054,249 1071,251 1072,254 1141,254 1142,251 1268,247 1269,244 1575,242 1596,240 1597,237 1613,237 1622,230 1620,182 1614,182 1611,177 1582,175 1581,172 1164,177 999,172 998,175 727,177 "/>
+				<TextEquiv>
+					<Unicode>ཤེས་རབ།སྐྱེ་བ།རོལ།ཏུ་ཕྱིན་ང།སྤོང་ཕྲགཉི་ཤ་ལཔ་པ།ན་བས་བཡོ།།</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>Transkribus</Creator>
+		<Created>2022-09-06T12:00:26.622+02:00</Created>
+		<LastChanged>2022-09-06T12:02:29.072+02:00</LastChanged>
+	</Metadata>
+	<Page imageFilename="37280443.jpg" imageWidth="2202" imageHeight="453">
+		<ReadingOrder>
+			<OrderedGroup id="1234_0" caption="Regions reading order"/>
+			<RegionRefIndexed index="0" regionRef="region_main"/>
+		</ReadingOrder>
+		<TextRegion id="region_main" custom="readingOrder {index:0;}">
+			<Coords points="283,84 1846,84 1846,353 283,353"/>
+			<TextLine id="line_9874_0" custom="readingOrder {index: 0;}">
+				<Coords points="269,68 269,116 270,116 271,117 271,121 274,121 275,122 275,123 277,123 278,124 278,125 283,125 284,126 284,128 313,128 314,129 314,130 357,130 357,129 358,128 374,128 376,125 387,125 387,124 388,123 392,123 392,122 393,121 394,121 394,72 391,72 390,71 390,70 388,70 387,69 387,67 378,67 377,66 377,65 273,65 273,66 272,67 270,67 "/>
+				<TextEquiv>
+					<Unicode/>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_1" custom="readingOrder {index: 1;}">
+				<Coords points="467,72 467,121 512,128 555,128 556,125 1832,128 1841,123 1841,75 1823,67 480,65 "/>
+				<TextEquiv>
+					<Unicode>ཤེད་བདག་ཡོངས་སུ་དག་པས།ལྕེ་ཡོངས་སུ་དག་པ།ལྕེ་ཡོངས་སུ་དག་པས།ཤེད་བདག་ཡོངས་སུ་དག་པ་།དེ་ལྟར་ན་ཤེད་བདག་ཡོངས་སུ་དག་པ་དང་།ལྕེ་</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_2" custom="readingOrder {index: 2;}">
+				<Coords points="271,110 273,161 370,168 1852,168 1863,163 1863,112 1832,105 823,108 288,103 "/>
+				<TextEquiv>
+					<Unicode>ཡོངས་སུ་དག་པ་འདི་ལ་གཉིས་སུ་མེད་དེ་གཉིས་སུ་བྱར་མེད་སོ་སོ་མ་ཡིན་ཐ་མི་དད་དོ།།ཤེད་བདག་ཡོངས་སུ་དག་པས།ལུས་ཡོངས་སུ་དག་པ།ལུས་ཡོངས་སུ་དག་པས།ཤེད་བདག་ཡོངས་།</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_3" custom="readingOrder {index: 3;}">
+				<Coords points="273,150 273,198 282,206 1833,208 1854,201 1854,155 1850,150 1822,145 288,145 "/>
+				<TextEquiv>
+					<Unicode>སུ་དག་པ་སྟེ།དེ་ལྟར་ན་ཤེད་བདག་ཡོངས་སུ་དག་པ་དང་།ལུས་ཡོངས་སུ་དག་པ་འདི་ལ་གཉིས་སུ་མེད་དེ་གཉིས་སུ་བྱར་མེད་སོ་སོ་མ་ཡིན་ཐ་མི་དད་དོ།།ཤེད་བདག་ཡོངས་སུ་དག་པས།ཡིད་</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_4" custom="readingOrder {index: 4;}">
+				<Coords points="271,190 271,239 282,246 1850,248 1865,241 1865,190 1854,185 539,188 299,183 "/>
+				<TextEquiv>
+					<Unicode>ཡོངས་སུ་དག་པ།ཡིད་ཡོངས་སུ་དག་པས་།།དེ་བདག་ཡོངས་སུ་དག་པ་སྟེ།དེ་ལྟར་ན་ཤེང་བདག་ཡོངས་སུ་དག་པ་དང་།ཡིད་ཡོངས་སུ་དག་པ་འདི་ལ་གཉིས་སུ་མེད་དེ་གཉིས་སུ་བྱར་མེད་།</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_5" custom="readingOrder {index: 5;}">
+				<Coords points="267,230 267,279 284,286 1856,288 1867,283 1867,233 1856,226 597,228 293,223 "/>
+				<TextEquiv>
+					<Unicode>སོ་སོ་མ་ཡིན་ཐ་མི་དད་དོ།།ཤད་བདག་ཡོངས་སུ་དག་པས།གཟུགས་ཡོངས་སུ་དག་པ།གཟུགས་ཡོངས་སུ་དག་པས།ཤེད་བདག་ཡོངས་སུ་དག་པ་སྟེ།དེ་ལྟར་ན་ཤེད་བདག་ཡོངས་སུ་</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_6" custom="readingOrder {index: 6;}">
+				<Coords points="273,273 273,319 280,326 1845,328 1864,324 1869,314 1869,270 1858,266 295,266 "/>
+				<TextEquiv>
+					<Unicode>དག་པ་དང་།གཟུགས་ཡོངས་སུ་དག་པ་འདི་ལ་གཉིས་སུ་མེ་དདེ་གཉིས་སུ་བྱར་མེད་སོ་སོ་མ་ཡིན་ཐ་མི་དད་དོ།།ཤེད་བདག་ཡོངས་སུ་དག་པས།སྐྲ་ཡོངས་སུ་དག་པ།སྐྲ་ཡོངས་སུ་དག་པས།།</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_7" custom="readingOrder {index: 7;}">
+				<Coords points="1869,313 1860,303 280,308 273,313 273,361 288,368 525,371 1854,366 1869,361 "/>
+				<TextEquiv>
+					<Unicode>ཤེད་བདག་ཡོངས་སུ་དག་པ་སྟེ།དེ་ལྟར་ན་ཤེད་བདག་ཡོངས་སུ་དག་པ་དང་།སྒྲ་ཡོངས་སུ་དག་པ་འདི་ལ་གཉིས་སུ་མེད་དེ་གཉིས་སུ་བྱར་མེད་སོ་སོ་མ་ཡིན་ཐ་མི་དད་དོ།།ཤེད་བདག་ཡོངས་སུ་།</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

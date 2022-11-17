@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>Transkribus</Creator>
+		<Created>2022-09-06T12:00:26.622+02:00</Created>
+		<LastChanged>2022-09-06T12:02:29.072+02:00</LastChanged>
+	</Metadata>
+	<Page imageFilename="37490160.jpg" imageWidth="2189" imageHeight="456">
+		<ReadingOrder>
+			<OrderedGroup id="1234_0" caption="Regions reading order"/>
+			<RegionRefIndexed index="0" regionRef="region_main"/>
+		</ReadingOrder>
+		<TextRegion id="region_main" custom="readingOrder {index:0;}">
+			<Coords points="320,91 1910,91 1910,376 320,376"/>
+			<TextLine id="line_9874_0" custom="readingOrder {index: 0;}">
+				<Coords points="304,78 304,121 321,131 1821,143 1912,143 1933,136 1933,87 1922,80 1222,78 321,70 "/>
+				<TextEquiv>
+					<Unicode>མཁྱེན་པ་ཉིད་མ་ལགས་ཏེ།དེ་ལྟར་ན་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་དང་མ་སྐྱེས་པ་དེ་གཉིས་སུ་མ་མཆིས་ཏེ་གཉིས་སུ་བགྱིར་མ་མཆིས་སོ།།དེ་ཅིའི་སླད་དུ་ཞེ་ན།བཅོམ་ལྡན་འདས་དེ་ནི་འདི་ལྟར་།།</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_1" custom="readingOrder {index: 1;}">
+				<Coords points="314,123 314,166 340,176 1918,183 1933,178 1933,127 1924,120 325,113 "/>
+				<TextEquiv>
+					<Unicode>སྐྱེག་པ་ནི་གཅིག་མ་ལགས།གཉིས་མ་ལགས།མབབ་མ་ལགས།ཐ་དད་པ་མ་ལགས་ཏེ།དེའི་སླད་དུ་རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་ཀྱི་མ་སྐྱེས་པ་གང་ལགས་པ་དེ་རྣམ་པ་ཐམས་ཅད་མཁྱེ་</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_2" custom="readingOrder {index: 2;}">
+				<Coords points="314,163 314,209 315,209 316,211 321,215 321,216 341,216 342,217 342,219 516,219 516,217 517,216 531,216 532,214 537,214 538,212 541,212 541,165 540,165 539,163 537,162 537,161 534,161 533,160 533,158 512,158 511,156 331,156 330,158 317,158 316,159 316,162 "/>
+				<TextEquiv>
+					<Unicode>པ་ཉིད་མ་ལགས་སོ།།</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_3" custom="readingOrder {index: 3;}">
+				<Coords points="609,166 610,212 631,219 1903,226 1927,216 1927,168 1905,161 1438,163 631,158 "/>
+				<TextEquiv>
+					<Unicode>བཅོམ་ལྡན་འདས་གཟུགས་ཀྱི་འགྲིབ་པ་གང་ལགས་པ་དེ་ནི་གཟུགས་མ་ལགས་ཏེ།དེ་ལྟར་ན་གཟུགས་དང་འགྲིབ་པ་དེ་གཉིས་སུ་མ་མཆིས་ཏེ་གཉིས་སུ་</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_4" custom="readingOrder {index: 4;}">
+				<Coords points="314,204 314,254 331,261 1896,269 1927,264 1933,257 1933,213 1927,206 1913,203 1430,206 881,199 325,199 "/>
+				<TextEquiv>
+					<Unicode>བགྱིར་མ་མཆིས་སོ།།དེ་ཅིའི་སླད་དུ་ཞེ་ན།བཅོམ་ལྡན་འདས་དེ་ནི་འདི་ལྟར་འགྲིབ་པ་ནི་གཅིག་མ་ལགས།གཉིས་མ་ལགས།མང་བ་མ་ལགས།ཐ་དད་པ་མ་ལགས་ཏེ།དེའི་སླད་དུ་གཟུགས་</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_5" custom="readingOrder {index: 5;}">
+				<Coords points="310,249 310,297 321,304 1903,311 1922,302 1922,258 1916,251 490,241 330,241 "/>
+				<TextEquiv>
+					<Unicode>ཀྱི་འགྲིབ་པ་གང་ལགས་པ་དེ་གཟུགས་མ་ལགས་གོ།།བཅོམ་ལྡན་འདས་ཚོར་བ་དང་།འདུ་ཤེས་དང་།འདུ་བྱེད་དང་།རྣམ་པར་ཤེས་པའི་འགྲིབ་པ་གང་ལགས་པ་དེ་ནི་རྣམ་པར་ཤེས་པ་མ་</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_6" custom="readingOrder {index: 6;}">
+				<Coords points="306,294 306,337 327,347 1178,352 1649,349 1914,352 1929,344 1927,294 1905,289 325,284 310,287 "/>
+				<TextEquiv>
+					<Unicode>ལགས་ཏེ།དེ་ལྟར་ན་རྣམ་པར་ཤེས་པ་དང་འགྲིབ་པ་དེ་གཉིས་སུ་མ་མཆིས་ཏེ་གཉིས་སུ་བགྱིར་མ་མཆིས་སོ།།དེ་ཅིའི་སླད་དུ་ཞེ་ན།བཅོམ་ལྡན་འདས་དེ་ནི་འདི་ལྟར་འགྲིབ་པ་ནི་གཅིག་མ་ལགས།གཉིས་།</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_7" custom="readingOrder {index: 7;}">
+				<Coords points="304,334 304,378 316,387 1668,394 1897,392 1918,385 1918,336 1905,332 310,327 "/>
+				<TextEquiv>
+					<Unicode>མ་ལགས།མང་བ་མ་ལགས།ཐ་དད་པ་མ་ལགས་ཏེ།དེའི་སླད་དུ་རྣམ་པར་ཤེས་པའི་འགྲིབ་པ་གང་ལགས་པ་དེ་རྣམ་པར་ཤེས་པ་མ་ལགས་སོ།།བཅོམ་ལྡན་འདས་མིག་གི་འགྲིབ་པ་གང་ལགས་།</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>
