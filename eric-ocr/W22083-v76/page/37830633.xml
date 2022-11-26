@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>Transkribus</Creator>
+		<Created>2022-09-06T12:00:26.622+02:00</Created>
+		<LastChanged>2022-09-06T12:02:29.072+02:00</LastChanged>
+	</Metadata>
+	<Page imageFilename="37830633.jpg" imageWidth="2189" imageHeight="456">
+		<ReadingOrder>
+			<OrderedGroup id="1234_0" caption="Regions reading order"/>
+			<RegionRefIndexed index="0" regionRef="region_main"/>
+		</ReadingOrder>
+		<TextRegion id="region_main" custom="readingOrder {index:0;}">
+			<Coords points="320,94 1901,94 1901,379 320,379"/>
+			<TextLine id="line_9874_0" custom="readingOrder {index: 0;}">
+				<Coords points="304,87 304,140 309,140 310,141 310,143 313,143 314,144 314,145 326,145 327,146 327,147 409,147 409,146 410,145 420,145 420,144 421,143 426,143 426,141 427,140 432,140 432,137 433,136 434,136 434,92 433,92 432,91 432,89 431,89 430,88 430,87 427,87 426,86 426,85 421,85 419,82 321,82 321,84 320,85 312,85 312,86 311,87 "/>
+				<TextEquiv>
+					<Unicode>།</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_1" custom="readingOrder {index: 1;}">
+				<Coords points="1920,82 1912,75 515,78 494,80 483,87 483,136 492,140 560,143 854,138 1895,138 1920,131 "/>
+				<TextEquiv>
+					<Unicode>དེ་བཞིན་དངོས་པོར་རྟོག་པ་འདི།།བྱིས་པས་ལོག་པར་རྣམ་པར་བརྟགས།།ཉོན་མོངས་རྣམ་བྱང་དངོས་པོ་རྣམས།སྐྲ་ཤད་འཛིངས་པ་ལྟ་བུ་སྟེ།།གནས་དང་འཇིག་དང་།</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_2" custom="readingOrder {index: 2;}">
+				<Coords points="1920,120 1905,113 314,123 308,127 308,174 321,185 1629,181 1907,176 1920,169 "/>
+				<TextEquiv>
+					<Unicode>སྐྱེ་དང་བྲལ།།རྟག་དང་མི་རྟག་སྤངས་པའོ།།ཇི་ལྟར་ལ་ལས་རྟ་ཏུར་ཟོས།གསེར་ལྟ་བུར་ནི་འགྲོ་བ་མཐོང་།།དེ་ན་གསེར་ཡོད་མ་ཡིན་ཡང་།།ས་དག་ཀྱང་ནི་གསེར་དུ་སྣང་།།ཐོགས་པ་མེད་།</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_3" custom="readingOrder {index: 3;}">
+				<Coords points="1916,161 1901,156 1162,163 319,163 308,168 308,216 327,226 1899,219 1916,209 "/>
+				<TextEquiv>
+					<Unicode>སེམས་སེམས་འབྱུང་བས།།དེ་ལྟར་བྱིས་པ་ཉམས་པར་བྱས།།སྲིད་པ་སྒྱུ་མ་སྨིག་རྒྱུ་སྐྱེས།།ཡང་དག་ཉིད་དུ་འཛིན་པར་བྱེད།།ས་བོན་གཅིག་དང་ས་བོན་མེད།།མདོམ་དང་ཤས་ཆེན་ས་</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_4" custom="readingOrder {index: 4;}">
+				<Coords points="1924,203 1914,199 325,203 308,208 308,261 338,269 733,264 1826,264 1918,259 1924,254 "/>
+				<TextEquiv>
+					<Unicode>བོན་ཅན།།ས་བོན་ཀུན་ཀྱང་དེ་ཡིན་ནོ།།སྣ་ཚོགས་གྱུར་ཀྱི་སེམས་ལ་ལྟོས།།ནམ་དག་པ་ན་ས་བརྣ་བཅིག།ཤིན་ཏུ་གྱུར་པས་ས་བོན་མེད།།མི་རྟོག་པས་ན་མཉམ་པའོ།།ཤས་ཆེ་བས་ན་་</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_5" custom="readingOrder {index: 5;}">
+				<Coords points="306,251 306,299 321,309 1903,309 1916,299 1916,256 1903,246 511,244 323,246 "/>
+				<TextEquiv>
+					<Unicode>རབ་ས་འདྲེས།།ས་བོན་སྣ་ཚོགས་འདེ་བགེ་པས་ན།།དེ་ནི་ས་བོན་ཀུན་ཅེས་བྱའོ།།འདི་ལ་རྐྱེན་གྱིས་མི་སྐྱེ་སྟེ།།གང་ཡང་འགག་པར་མི་འགྱུར་རོ།།བརྟགས་པ་ཡི་ནི་རྐྱེན་རྣམས་ཉིད།།སྐྱེ་།</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_6" custom="readingOrder {index: 6;}">
+				<Coords points="1924,294 1918,287 1890,284 312,291 304,298 304,345 323,354 1912,347 1924,340 "/>
+				<TextEquiv>
+					<Unicode>བ་དང་ནི་འགག་པར་འགྱུར།།སྲིད་པ་གསུམ་ནི་བཏགས་ཙམ་སྟེ།།ཛ་བ་ཉིད་ཀྱིས་དངོས་པ་མེད།།བཏགས་པ་ངཔོ་དངོས་པོར་ནི།།རྟག་གེ་བ་དག་རྟོ་པར་འགྱུར།།དངོས་པའི་རང་བཞི་ཤེས་</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_7" custom="readingOrder {index: 7;}">
+				<Coords points="1897,334 1850,327 1401,332 314,334 310,339 310,390 342,397 1839,392 1894,383 "/>
+				<TextEquiv>
+					<Unicode>འདོད་པ།།ནོར་པ་དག་ནི་མ་རྟོགས་སོ།།དངོས་པའི་རང་བཞིན་མི་སྐྱེ་བ།།དེ་ལྟར་མཐོང་ནས་རྣམ་པར་གྲོལ།།སྒྱུ་མ་མེད་དང་ཆོས་མཚུངས་པས།།དངོས་པོ་རྣམས་ནི་ཡོད་བརྗོད་ཡིན།།།</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>Transkribus</Creator>
+		<Created>2022-09-06T12:00:26.622+02:00</Created>
+		<LastChanged>2022-09-06T12:02:29.072+02:00</LastChanged>
+	</Metadata>
+	<Page imageFilename="37990303.jpg" imageWidth="2204" imageHeight="453">
+		<ReadingOrder>
+			<OrderedGroup id="1234_0" caption="Regions reading order"/>
+			<RegionRefIndexed index="0" regionRef="region_main"/>
+		</ReadingOrder>
+		<TextRegion id="region_main" custom="readingOrder {index:0;}">
+			<Coords points="356,103 1874,103 1874,367 356,367"/>
+			<TextLine id="line_9874_0" custom="readingOrder {index: 0;}">
+				<Coords points="340,91 340,135 344,135 345,136 345,137 348,137 349,138 349,139 352,139 353,140 353,142 365,142 366,143 366,144 446,144 446,143 447,142 457,142 457,140 458,139 463,139 463,138 464,137 467,137 467,136 468,135 470,135 470,89 468,89 467,88 467,86 464,86 463,85 463,84 460,84 459,83 459,82 357,82 357,83 356,84 351,84 351,85 350,86 347,86 347,88 346,89 342,89 342,90 341,91 "/>
+				<TextEquiv>
+					<Unicode/>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_1" custom="readingOrder {index: 1;}">
+				<Coords points="510,86 510,135 534,142 1214,149 1463,147 1505,151 1727,151 1729,154 1856,154 1882,149 1888,144 1888,98 1871,91 1592,91 1376,84 1166,86 1113,82 534,82 "/>
+				<TextEquiv>
+					<Unicode>རྡོ་རྗེ་དྲིལ་བུ་དང་།མཁའ་འགྲོ་མ་ནི་ཐོད་པ་དང་།རྡོ་རྗེ་སྔགས་མ་ཛུབ་བོ།།རྣམ་པར་སྣང་མཛད་ཀྱི་དཀྱིལ་འཁོར་དབུས་སུ་བཅོམ་ལྡན་འདས་སངས་རྒྱས་མཁའ་འགྲོ་བདེ་།</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_2" custom="readingOrder {index: 2;}">
+				<Coords points="345,126 345,170 353,177 1128,187 1409,184 1580,191 1849,189 1860,182 1860,138 1854,131 694,122 467,112 377,112 349,119 "/>
+				<TextEquiv>
+					<Unicode>བ་ཆེན་པོའོ།།ཤར་ཕྱོགས་ཀྱི་སྒོར་གོ་དཱུ་བ་རི་ན་ལུ་དགྲ་དང་།དཔའ་བོའི་བློ་ཅན་ཡའོ།ཁྱང་དུ་རཱ་མེ་ཤ་ར་ན་འད་དཔག་མེད་དང་།སེའུ་ཐུང་མའོ།།ནུབ་ཏུ་དེ་བི་ཀོ་ཊ་ན་རྡོ་རྗེའོད་དང་།།</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_3" custom="readingOrder {index: 3;}">
+				<Coords points="349,160 349,208 355,215 1023,227 1278,224 1870,232 1894,224 1894,174 1836,167 763,162 503,157 465,152 366,155 "/>
+				<TextEquiv>
+					<Unicode>ལང་ཀའི་དབང་ཕྱུག་ཨའོ།།ལྷོ་རུ་མཱ་ལ་བ་ན་རྡོ་རྗེ་སྐུ་དང་།ཤིང་གྲིབ་མ་སྟེ་དཔའ་བོའི་སྐུ་ལུས་དཀར་པོ།མཁའ་འགྲོ་མ་ནེ་སར་པོའོ།།དྲི་མ་མེད་པའི་ས་ནི་དབུས་མ་སྟེ་སངས་རྒྱས་མཁའ་འགྲོ་མའོ་།</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_4" custom="readingOrder {index: 4;}">
+				<Coords points="345,204 345,248 353,255 1748,269 1886,267 1892,260 1892,216 1877,209 1764,209 1722,204 1405,207 1247,202 860,202 764,197 617,200 368,193 353,195 "/>
+				<TextEquiv>
+					<Unicode>འོད་བྱེད་པའི་སའི་དབུས་ན་རིན་ཆེན་མཁའ་འགྲོ་སྟེ།ཤར་གྱི་སྒོ་རུ་ཀཱམ་རཱུ་བ་ན་མྱུ་གུ་ཅན་དང་།ས་སྤུངས་མའོ།།བྱང་དུ་མོ་ཏན་རྡོ་རྗེ་རལ་བ་ཅན་དང་།འཇིགས་བྱེད་ཆེན་མོའོ།།ནུབ་ཏུ་ཏྲི་ཤཾ་ཀུ་</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_5" custom="readingOrder {index: 5;}">
+				<Coords points="351,237 351,286 366,293 1877,309 1897,302 1897,254 1877,247 1046,237 583,237 545,233 364,233 "/>
+				<TextEquiv>
+					<Unicode>ནེན་དཔའ་བོ་ཆེན་པོ་དང་།རླུང་གི་ཤུགས་ཅན་མའོ།།ལྷོ་རུ་ཀོ་ས་ལ་ན་རྡོ་རྗེཧཱུཾ་མཛད་དང་།ཆང་འཐུང་མ་སྟེ་དཔའ་བོ་སེར་པོ།མཁའ་འགྲོ་མ་ལྗང་ཁུའོ།།འོད་འཕྲོ་བའི་སའི་དབུས་སུ་པདྨ་</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_6" custom="readingOrder {index: 6;}">
+				<Coords points="345,277 345,324 360,331 1602,345 1869,345 1884,338 1884,292 1866,285 1104,277 991,280 543,270 353,270 "/>
+				<TextEquiv>
+					<Unicode>མཁའ་འགྲོ་།དེའི་ཤར་ཕྱོགས་ཀྱི་སྒོར་ཀ་ལིང་ཀ་ན་རབ་བཟང་དང་།སྔོ་བསངས་ལྷ་མོའོ།།བྱང་དུ་ལ་པཱ་ཀ་ན་རྡོ་རྗེ་བཟང་དང་།རབ་བཟང་སྨོའོ།།ནུབ་ཏུ་ཀཱཉྩི་ན་འཇིགས་ཁྱེད་ཆེན་པི་</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_7" custom="readingOrder {index: 7;}">
+				<Coords points="355,313 355,364 375,371 1545,380 1614,385 1862,385 1888,380 1892,375 1892,327 1881,322 370,308 "/>
+				<TextEquiv>
+					<Unicode>དང་།རྟ་རྣམའོ།།ལྷོ་རུ་ཧི་ས་ལ་ཡ་ན་མིག་མི་བཟང་དང་བྱ་གདོངས་སྟེ་དཔའ་བོ་དམར་པོ།མཁའ་འགྲོ་མ་ནི་དཀར་མོའོ།།སྲུང་དཀའ་བའི་ས་དབུས་སུ་རྡོ་རྗེ་མཁའ་འགྲོ་དེའི་ཤར་།</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

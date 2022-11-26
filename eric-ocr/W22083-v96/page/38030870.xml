@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>Transkribus</Creator>
+		<Created>2022-09-06T12:00:26.622+02:00</Created>
+		<LastChanged>2022-09-06T12:02:29.072+02:00</LastChanged>
+	</Metadata>
+	<Page imageFilename="38030870.jpg" imageWidth="2204" imageHeight="453">
+		<ReadingOrder>
+			<OrderedGroup id="1234_0" caption="Regions reading order"/>
+			<RegionRefIndexed index="0" regionRef="region_main"/>
+		</ReadingOrder>
+		<TextRegion id="region_main" custom="readingOrder {index:0;}">
+			<Coords points="320,96 1902,96 1902,381 320,381"/>
+			<TextLine id="line_9874_0" custom="readingOrder {index: 0;}">
+				<Coords points="304,82 304,128 306,130 309,130 310,132 318,132 319,135 331,135 332,137 572,137 573,139 767,139 768,137 775,137 776,135 784,135 784,86 782,85 782,82 778,82 777,79 772,79 771,77 615,77 614,75 317,75 316,77 310,77 307,82 "/>
+				<TextEquiv>
+					<Unicode>དམར་གྱི་གདོན་འདུལ་བའི་ལེའུ་སྟེ་བཅུ་གཉིས་པའོ།།</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_1" custom="readingOrder {index: 1;}">
+				<Coords points="945,89 945,135 951,139 959,139 960,142 1224,144 1225,147 1844,151 1845,154 1892,154 1893,151 1912,151 1920,147 1920,96 1912,91 1616,89 1615,86 1304,86 1193,82 958,82 "/>
+				<TextEquiv>
+					<Unicode>།ལག་ན་རྡོ་རྗེ་གོས་སྔོན་གྱིས།།བཅོམ་ལྡན་མགོན་ལ་འདི་སྐད་གསོལ།།གང་ཞིག་གནོད་སྦྱིན་གདོན་གྱིས་ཟིན།།དེ་ལ་</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_2" custom="readingOrder {index: 2;}">
+				<Coords points="308,122 308,170 327,180 1527,189 1905,196 1925,186 1925,143 1912,134 317,117 "/>
+				<TextEquiv>
+					<Unicode>ཐབས་ཉིད་གསུང་དུ་གསོལ།།གསང་བའི་མགོན་གྱིས་བཀའ་སྩལ་པ།།གནོད་སྦྱིན་གདོང་སར་ཞེས་པའི་གདོན།།ཤིན་ཏུ་དྲག་པར་གྱུར་པ་ལ།ཐབས་འདི་ཡང་དག་བརྩམ་པར་བྱ།།དྲག་པོའི་སྒྲ་དང་།</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_3" custom="readingOrder {index: 3;}">
+				<Coords points="306,167 306,210 314,217 334,220 1892,236 1918,229 1918,181 1905,174 319,157 "/>
+				<TextEquiv>
+					<Unicode>རབ་ལྡན་པའི།།ཁ་དོག་སེར་བ་སུམ་ཅུའི་གཟུགས།།སྟོབས་དང་ལྡན་ཞིང་རབ་ཏུ་གུས།།ཟས་སུ་སྦྲང་རྩི་ཟར་བཅུག་ལ།།ཞག་བདུན་བར་དུ་ངེས་བསྙེན་པའི།།གོས་དག་ལྟང་ཁུ་བསྐོན་བྱས་ཏེ།།སྔགས་།</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_4" custom="readingOrder {index: 4;}">
+				<Coords points="308,207 308,250 312,257 327,262 1910,276 1920,274 1925,267 1925,223 1918,216 401,200 317,200 "/>
+				<TextEquiv>
+					<Unicode>འདི་དག་གིས་ཡོངས་སུ་བསྔགས།།བདག་གིས་རབ་ཏུ་དང་བས་ནི།།སངས་རྒྱས་རྣམས་ལ་མཆོད་པས་མཆོད།།དེ་ནས་སུམ་ཅུ་པ་དག་ལ།།དངོས་པོ་རྟེན་པར་བྱེད་པ་ཡི།།རས་སོགས་གོས་ཟས་བཅོམས་</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_5" custom="readingOrder {index: 5;}">
+				<Coords points="312,247 312,298 323,305 1123,309 1453,316 1890,316 1910,306 1910,264 1901,256 332,242 "/>
+				<TextEquiv>
+					<Unicode>བྱས་ལ།།བྱང་ཕྱོགས་དག་གི་ཁང་སྟེང་དུ།།ཕྱིན་པས་ས་ཉིད་བླང་བར་བྱ།།ལུས་ངན་སྲས་པོས་རབ་བསགས་པ།།སྙིང་པོ་ཉིད་ཀྱང་གདོན་བྱ་ཞིང་།།དེ་ཐོབ་བྱང་ཕྱོགས་ཁྲོ་བོ་ཡི།།སྔགས་བཟླས་པ་ཡི་།</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_6" custom="readingOrder {index: 6;}">
+				<Coords points="310,292 312,340 340,347 1879,359 1898,357 1910,349 1910,302 1896,296 890,292 321,285 "/>
+				<TextEquiv>
+					<Unicode>ཕྱིར་མི་བལྟ།།དེ་ནས་སྔགས་པ་བློ་ལྡན་པས།།དཀྱིལ་འཁོར་ཁྲུ་ནི་ཕྱེད་དང་དོ།།ཟུར་བཞི་པ་རུ་བྱས་པ་ལ།།རམས་དང་མཐིང་ཤུན་ཡུང་བ་དང་།།བ་ཡི་རྣམ་ལཱ་དྲི་ལྡན་པས།འཕང་དུ་སོར་གཉིས་རྣམ་།</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_7" custom="readingOrder {index: 7;}">
+				<Coords points="308,334 308,380 314,385 409,390 1899,399 1914,387 1914,344 1894,336 323,327 "/>
+				<TextEquiv>
+					<Unicode>པར་ངེས།།ནང་ནས་རབ་ཏུ་ཟླུམ་བྱས་ལ།།ཅན་དན་དཀར་པོའི་ཐིག་ལེ་ནི།།བཅུ་བདུན་ཡོངས་སུ་བྲི་བར་བྱ།།དེ་སྟེང་འཁོར་ལའ་ལ་ཚོགས་གནས།།བླ་རེ་ལྕང་ཁུ་ཕུབ་བྱས་ལ།།དེ་ནས་འདབས་སྦྱོར་དེ་།</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>

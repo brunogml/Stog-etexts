@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+		<Creator>Transkribus</Creator>
+		<Created>2022-09-06T12:00:26.622+02:00</Created>
+		<LastChanged>2022-09-06T12:02:29.072+02:00</LastChanged>
+	</Metadata>
+	<Page imageFilename="38070221.jpg" imageWidth="2215" imageHeight="451">
+		<ReadingOrder>
+			<OrderedGroup id="1234_0" caption="Regions reading order"/>
+			<RegionRefIndexed index="0" regionRef="region_main"/>
+		</ReadingOrder>
+		<TextRegion id="region_main" custom="readingOrder {index:0;}">
+			<Coords points="345,81 1989,81 1989,358 345,358"/>
+			<TextLine id="line_9874_0" custom="readingOrder {index: 0;}">
+				<Coords points="344,69 344,120 345,120 347,123 350,123 351,124 351,125 356,125 357,126 357,127 437,127 437,126 438,125 450,125 450,124 451,123 454,123 456,120 459,120 459,119 460,118 461,118 461,74 460,74 459,73 459,72 458,72 456,69 453,69 452,68 452,67 447,67 446,66 446,65 427,65 426,64 426,62 375,62 373,65 351,65 351,66 350,67 349,67 347,69 "/>
+				<TextEquiv>
+					<Unicode/>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_1" custom="readingOrder {index: 1;}">
+				<Coords points="517,67 517,118 535,123 1791,127 1972,123 1977,115 1977,72 1971,67 1934,62 1362,65 550,60 "/>
+				<TextEquiv>
+					<Unicode>མེད་དོ།།དེ་ཅིའི་ཕྱིར་ཞེ་ན།བྱང་ཆུབ་ལ་མཚན་ཉིད་མེད་པའི་ཕྱིར་ཏེ།གསང་བ་བའི་བདག་པོ་ཆོས་ཐམས་ཅད་ཀྱང་མཚན་ཉིད་མེད་པ་ནི།འདི་ལྟ་སྟེ་།།</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_2" custom="readingOrder {index: 2;}">
+				<Coords points="336,109 336,158 355,165 1289,169 1995,165 2003,158 2003,112 1975,102 1392,107 355,102 "/>
+				<TextEquiv>
+					<Unicode>ནམ་མཁའི་མཚན་ཉིད་དོ།།དེ་ནས་ཡང་བཅོམ་ལྡན་འདས་ལ།ཕྱག་ན་རྡོ་རྗེས་འདི་སྐད་ཅེས་གསོལ་ཏོ།།བཅོམ་ལྡན་འདས་ཐམས་ཅད་མཁྱེན་པ་ཉིད་ནི་གང་ནས་ཡོངས་སུ་བརྩལ་བར་</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_3" custom="readingOrder {index: 3;}">
+				<Coords points="333,149 333,198 342,205 1873,209 1982,207 2005,200 2005,152 1988,145 1269,149 527,147 364,142 "/>
+				<TextEquiv>
+					<Unicode>བགྱི་༑གང་གིས་ནི་བྱང་ཆུབ་མངོན་པར་རྫོགས་པར་འཚང་རྒྱ་བར་བགྱི་ལགས།བཅོམ་ལྡན་འདས་ཀྱིས་བཀའ་སྩལ་པ།གསང་བ་པའི་བདག་པོ་བྱང་ཆུབ་དང་ཐམས་ཅད་མཉན་པ་ཉིད་ནི་</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_4" custom="readingOrder {index: 4;}">
+				<Coords points="329,192 329,238 346,247 1757,252 1995,249 2012,242 2012,194 1992,187 338,185 "/>
+				<TextEquiv>
+					<Unicode>རང་གི་སེམས་ལས་ཡོངས་སུ་བཙལ་བར་བྱའོ།།དེ་ཅིའི་ཕྱིར་ཞེ་ན།སེསས་དེ་ན་རང་བཞིན་གྱིས་ཡོངས་སུ་དག་པ་ཡིན་ཏེདེ་ནི་ནང་ནའང་མེད།བྱི་རོལ་ནའང་མེད།གཉིས་ཀའི་བར་ནའ་།</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_5" custom="readingOrder {index: 5;}">
+				<Coords points="331,234 331,280 353,289 1986,292 2001,282 2001,236 1979,229 1334,232 338,227 "/>
+				<TextEquiv>
+					<Unicode>མི་དམིགས་སོ།།གསང་བ་པའི་བདག་པོ་སེམས་ནི་དེ་བཞིན་གཤེགས་པ་དགྲ་བཅོམ་པ་ཡང་དག་པར་རྫོགས་པའི་སངས་རྒྱས་རྣམས་ཀྱིས་མ་གཟིགས།མི་གཟིགས།གཟིགས་པར་མི་</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_6" custom="readingOrder {index: 6;}">
+				<Coords points="333,274 333,320 351,329 1809,336 1986,332 1997,324 1997,281 1983,271 1172,274 1058,269 357,267 "/>
+				<TextEquiv>
+					<Unicode>འགྱུར་ཏེ།སྔོན་པོར་མ་ཡིན།སེར་པོར་ས་ཡིན།དམར་ངོར་མ་ཡིན།དཀར་པོར་མ་ཡིན།ཁ་དོག་ལ་བརྒན་དུ་མ་ཡིན།ཤེལ་གྱི་ཁ་དོག་ཏུ་མ་ཡིན།ཐུང་ངུར་མ་ཡིན།རང་།</Unicode>
+				</TextEquiv>
+			</TextLine>
+			<TextLine id="line_9874_7" custom="readingOrder {index: 7;}">
+				<Coords points="336,311 336,362 340,367 417,372 1995,374 2010,364 2010,318 1994,311 1152,314 346,307 "/>
+				<TextEquiv>
+					<Unicode>བོར་མ་ཡིན།ཟླུམ་པོར་མ་ཡིན།གྲུ་བཞིར་མ་ཡིན།སླང་བར་མ་ཡིན།མུན་པར་མ་ཡིན།སྐྱེས་པར་མ་ཡིན།བུད་མེད་དུ་མ་ཡིན།མ་ནིང་དུ་མ་ཡིན་ནོ།།གསང་བ་།</Unicode>
+				</TextEquiv>
+			</TextLine>
+		</TextRegion>
+	</Page>
+</PcGts>
